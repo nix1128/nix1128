@@ -1,0 +1,30 @@
+[
+      {
+        "article_id": 2100488127,
+        "title": "Трябва ли да има основна реформа в системата на ТЕЛК?",
+        "body": "<p>article body</p>",
+        "published_from": "2021-12-01T05:14:07Z",
+        "media_id": 2111607508,
+        "media_filename": "2111607508.jpg",
+        "media_published": 1523370972,
+        "media_service_id": 2,
+        "media_type": "image",
+        "type": "article",
+        "status": "published",
+        "siteid": 80
+      },
+      {
+        "article_id": 2100725642,
+        "title": "Бисерите на Попвасилев: Кокошките и новите им... зъби (ВИДЕО)",
+        "body": "<p>article body</p>",
+        "published_from": "2022-09-16T12:30:00Z",
+        "media_id": 2112568202,
+        "media_filename": "2112568202.png",
+        "media_published": 1631574073,
+        "media_service_id": 2,
+        "media_type": "image",
+        "type": "article",
+        "status": "scheduled",
+        "siteid": 80
+      }
+]
